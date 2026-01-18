@@ -39,6 +39,18 @@ Speler
 Deze repository bevat meerdere prototypes die de ontwikkeling van SoccerSense inzichtelijk maken.
 Elke versie is gebaseerd op gebruikerstesten en feedback van docenten.
 
+Tijdens de ontwikkeling zijn meerdere gebruikerstesten uitgevoerd met:
+
+* Een oud-voetbalcoach
+* Actieve teamgenoten (spelers)
+
+Feedback uit deze tests heeft direct geleid tot:
+
+* Minder visuele overload
+* Kortere AI-adviezen
+* Duidelijke scheiding tussen coach- en spelersinformatie
+* Verbeterde UX en structuur
+
 Prototype 1 – Streamlit 
 
 * Eerste datagedreven dashboard
